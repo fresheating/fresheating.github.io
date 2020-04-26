@@ -1,0 +1,24 @@
+# Change 'comments' to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'millennial-3'
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-ID: ''
+
+menu:
+- {name: 'Frühstück', folder: 'pages', file: 'fruehstueck.html'}
+- {name: 'Salate & Suppen', folder: 'pages', file: 'salate-suppen.html'}
+- {name: 'Pasta, Linsen & Co', folder: 'pages', file: 'pasta-linsen.html'}
+- {name: 'Backen & Desserts', folder: 'pages', file: 'backen-desserts.html'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+social:
+- {icon: 'envelope', link: 'mailto:fresheating0@gmail.com'}
+
+# Customize site text
+pagination:
+  next_page: 'Newer'
+  previous_page: 'Older'
+
+post_date_prefix: ''
