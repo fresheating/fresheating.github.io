@@ -9,7 +9,7 @@ image: zimtschnecken.jpg
 
 ## Zutaten
 
-## Teig
+### Teig
 * 1/2 Würfel Hefe
 * 50 g weiche Datteln
 * 1 Prise Salz
@@ -18,7 +18,7 @@ image: zimtschnecken.jpg
 * 1/2 reife Banane
 * 450 g Dinkelmehl (Typ 1050)
 
-## Füllung
+### Füllung
 * 200 g Haselnusskerne/gemahlene Haselnüsse
 * 40 g gehackte Mandeln
 * 80 g weiche Datteln
