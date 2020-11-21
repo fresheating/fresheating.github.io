@@ -13,9 +13,9 @@ image: herbstbowl.jpg
 * 1 rote Paprika
 * 4 kleine Knollen gekochte Rote Beete
 * 1 Salatgurke
-* 1 Hand voll Romanasalat
+* 1 Handvoll Romanasalat
 * 200 g Pilze
-* 1 Hand voll Babyspinat
+* 1 Handvoll Babyspinat
 * etwas Kresse
 * 1 EL Olivenöl
 * Salz, Pfeffer
